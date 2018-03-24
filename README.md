@@ -1,2 +1,1 @@
-# ruby-calc
-Ruby calc is an application that accepts text input and prints out the numeric answer.
+Ruby Calc is a four function calculator that's run from the command line. From your terminal, navigate into the ruby-calc directory, and input "ruby ruby-calc.rb". Input the equation you wish to solve within quotes, as this application only accepts text input. The application will correctly calculate and output the result as a numeric value, regardless of the order of operations or equation complexity.
